@@ -84,7 +84,7 @@ If you prefer to build the container manually, follow these steps:
 Below are visual guides to help you navigate the UI:
 
 ### Step 1
-![Main Dashboard]([images/ui_dashboard.png](sample_ui/step 1.png))
+![Main Dashboard](https://github.com/jichujiang-web/resume-parser/blob/main/sample_ui/step%201.png)
 
 ### Step 2
 ![Model Interaction]([images/ui_model_interaction.png](sample_ui/step 2.png.png))
