@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+llama-cpp-python
+python-docx
+pdfplumber
