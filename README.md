@@ -14,7 +14,7 @@ You can either:
 1. navigate to the docker container:
    ```bash
    https://github.com/jichujiang-web/resume-parser/pkgs/container/resume-parser
-```
+   ```
 2. pull the docker container:
 
    ```bash
