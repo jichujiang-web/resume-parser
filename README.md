@@ -196,6 +196,7 @@ Using a **Software Developer** resume as input, the JSON response might look lik
 }
 ```
 This example is the end goal, the model still needs further improvements and post processeing to achieve the desired outcome shown here.
+
 ---
 
 ## 🧠 Design Decisions & Considerations
