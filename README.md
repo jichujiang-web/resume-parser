@@ -52,12 +52,12 @@ If you prefer to build the container manually, follow these steps:
    
 2. Download the model file from Hugging Face
 
-👉 [Llama-3.2-1B-Instruct-f16.gguf](https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-f16.gguf)
+   👉 [Llama-3.2-1B-Instruct-f16.gguf](https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-1B-Instruct-f16.gguf)
 
-Place the downloaded file inside your project directory:
-```bash
-resume-parser/models/Llama-3.2-1B-Instruct-f16.gguf
-```
+   Place the downloaded file inside your project directory:
+   ```bash
+   resume-parser/models/Llama-3.2-1B-Instruct-f16.gguf
+   ```
 
 3. Build the Docker image:
    ```bash
@@ -84,13 +84,13 @@ resume-parser/models/Llama-3.2-1B-Instruct-f16.gguf
 Below are visual guides to help you navigate the UI:
 
 ### Step 1
-![Main Dashboard]([images/ui_dashboard.png](https://github.com/jichujiang-web/resume-parser/blob/main/sample_ui/step%201.png))
+![Main Dashboard]([images/ui_dashboard.png](sample_ui/step 1.png))
 
 ### Step 2
-![Model Interaction]([images/ui_model_interaction.png](https://github.com/jichujiang-web/resume-parser/blob/main/sample_ui/step%202.png))
+![Model Interaction]([images/ui_model_interaction.png](sample_ui/step 2.png.png))
 
 ### Step 3
-![Settings Panel]([images/ui_settings.png](https://github.com/jichujiang-web/resume-parser/blob/main/sample_ui/step%203.png))
+![Settings Panel]([images/ui_settings.png](sample_ui/step 3.png))
 
 ---
 
