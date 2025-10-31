@@ -15,8 +15,7 @@ You can either:
    ```bash
    https://github.com/jichujiang-web/resume-parser/pkgs/container/resume-parser
 ```
-
-2. pull the docker container
+2. pull the docker container:
 
    ```bash
    docker pull ghcr.io/jichujiang-web/resume-parser:latest
