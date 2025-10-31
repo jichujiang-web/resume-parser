@@ -75,7 +75,7 @@ If you prefer to build the container manually, follow these steps:
    ```
 
 ---
-```
+
 
 ---
 
@@ -94,6 +94,8 @@ Below are visual guides to help you navigate the UI:
 
 ---
 
+
+```
 ## 🧾 Example Output
 
 Using a **Software Developer** resume as input, the JSON response might look like:
